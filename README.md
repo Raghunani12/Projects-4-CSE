@@ -1,10 +1,6 @@
 # Projects-4-CSE
 
 
-....A MINI PROJECT WITH PYTHON......
-
-.....///DIGITAL CLOCK\\\......
-
-
+.... MINI PROJECTS WITH PYTHON......
 
 .......THANK YOU..........!!
